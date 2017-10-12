@@ -1,0 +1,470 @@
+{
+  "project_info": {
+    "project_number": "761752592454",
+    "firebase_url": "https://distro-168522.firebaseio.com",
+    "project_id": "distro-168522",
+    "storage_bucket": "distro-168522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761752592454:android:bd6ece6b86091290",
+        "android_client_info": {
+          "package_name": "com.allisonmcentire.distro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761752592454-ogu14b9p7mgp7pqik0estenr8tkhvmkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allisonmcentire.distro",
+            "certificate_hash": "3f05cb4233590c60d52499edf5c5547fb48b7adc"
+          }
+        },
+        {
+          "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0t7_6yXrRczZD4VTC-0WrIqdZ08-mQG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761752592454-au47s6r6d5tiddm7qa5mlkhaj5lvscc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "millionacrenest.LaborTool"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761752592454:android:921d5015da198d07",
+        "android_client_info": {
+          "package_name": "com.allisonmcentire.distro4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761752592454-4fq7hdrelem6tuk9v8buj1gngq5g3tjf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allisonmcentire.distro4",
+            "certificate_hash": "3f05cb4233590c60d52499edf5c5547fb48b7adc"
+          }
+        },
+        {
+          "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0t7_6yXrRczZD4VTC-0WrIqdZ08-mQG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761752592454-au47s6r6d5tiddm7qa5mlkhaj5lvscc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "millionacrenest.LaborTool"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761752592454:android:ba061d0ae9b43194",
+        "android_client_info": {
+          "package_name": "com.allisonmcentire.distro5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761752592454-oe6dspaeu0sb9us10ljnmnga7ehlqvl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allisonmcentire.distro5",
+            "certificate_hash": "3f05cb4233590c60d52499edf5c5547fb48b7adc"
+          }
+        },
+        {
+          "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0t7_6yXrRczZD4VTC-0WrIqdZ08-mQG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761752592454-au47s6r6d5tiddm7qa5mlkhaj5lvscc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "millionacrenest.LaborTool"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761752592454:android:306a5e7f22929bff",
+        "android_client_info": {
+          "package_name": "com.mimming.hacks.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761752592454-jp45vf5jk5e0i0q3sum0fl337uehm5sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mimming.hacks.starter",
+            "certificate_hash": "3f05cb4233590c60d52499edf5c5547fb48b7adc"
+          }
+        },
+        {
+          "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0t7_6yXrRczZD4VTC-0WrIqdZ08-mQG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761752592454-au47s6r6d5tiddm7qa5mlkhaj5lvscc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "millionacrenest.LaborTool"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761752592454:android:84a7197fb8bc4de1",
+        "android_client_info": {
+          "package_name": "com.allisonmcentire.laborpower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761752592454-ggre6je1127ehb64da5cr3pv5s41g7kk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allisonmcentire.laborpower",
+            "certificate_hash": "3f05cb4233590c60d52499edf5c5547fb48b7adc"
+          }
+        },
+        {
+          "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0t7_6yXrRczZD4VTC-0WrIqdZ08-mQG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761752592454-au47s6r6d5tiddm7qa5mlkhaj5lvscc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "millionacrenest.LaborTool"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761752592454:android:c3301628240b26cd",
+        "android_client_info": {
+          "package_name": "com.allisonmcentire.multitool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761752592454-tf0merir7r8on2k58453nfrgmmvrgcv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allisonmcentire.multitool",
+            "certificate_hash": "3f05cb4233590c60d52499edf5c5547fb48b7adc"
+          }
+        },
+        {
+          "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0t7_6yXrRczZD4VTC-0WrIqdZ08-mQG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761752592454-au47s6r6d5tiddm7qa5mlkhaj5lvscc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "millionacrenest.LaborTool"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761752592454:android:6980e029a27a9f92",
+        "android_client_info": {
+          "package_name": "com.allisonmcentire.labortool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761752592454-hree1gn50t2jovh2bti8qh4bdekm87s3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allisonmcentire.labortool",
+            "certificate_hash": "3f05cb4233590c60d52499edf5c5547fb48b7adc"
+          }
+        },
+        {
+          "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0t7_6yXrRczZD4VTC-0WrIqdZ08-mQG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761752592454-au47s6r6d5tiddm7qa5mlkhaj5lvscc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "millionacrenest.LaborTool"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761752592454:android:02763c75d8d4321f",
+        "android_client_info": {
+          "package_name": "firbase.test.com.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761752592454-b9m05vige80kgfr9ab8tl359tfpvf0te.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "firbase.test.com.firebasechat",
+            "certificate_hash": "3f05cb4233590c60d52499edf5c5547fb48b7adc"
+          }
+        },
+        {
+          "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0t7_6yXrRczZD4VTC-0WrIqdZ08-mQG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761752592454-au47s6r6d5tiddm7qa5mlkhaj5lvscc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "millionacrenest.LaborTool"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761752592454:android:a195ee9940e96b49",
+        "android_client_info": {
+          "package_name": "com.allisonmcentire.laborpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761752592454-da5lum2a1b4tp5s39r0umqffvf290jov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.allisonmcentire.laborpost",
+            "certificate_hash": "3f05cb4233590c60d52499edf5c5547fb48b7adc"
+          }
+        },
+        {
+          "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0t7_6yXrRczZD4VTC-0WrIqdZ08-mQG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761752592454-ijgb9ia3k0bsvqv9u4pn0p99223ejpfn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "761752592454-au47s6r6d5tiddm7qa5mlkhaj5lvscc0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "millionacrenest.LaborTool"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
