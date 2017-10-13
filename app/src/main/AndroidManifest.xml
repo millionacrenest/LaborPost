@@ -32,6 +32,17 @@
         <activity
             android:name=".MapsActivity"
             android:label="@string/title_activity_maps">
+
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="OPCMIA LOCAL 528">
+
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="Seattle Building Trades"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
