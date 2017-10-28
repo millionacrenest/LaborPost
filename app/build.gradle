@@ -7,8 +7,8 @@ android {
         applicationId "com.allisonmcentire.laborpost"
         minSdkVersion 17
         targetSdkVersion 26
-        versionCode 2
-        versionName "2"
+        versionCode 3
+        versionName "3"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
@@ -32,6 +32,7 @@ dependencies {
     compile 'com.google.firebase:firebase-auth:10.0.1'
     testCompile 'junit:junit:4.12'
 }
+
 
 
 

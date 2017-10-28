@@ -31,14 +31,10 @@
 
         <activity
             android:name=".MapsActivity"
-            android:label="@string/title_activity_maps">
-
-        </activity>
+            android:label="@string/title_activity_maps"></activity>
         <activity
             android:name=".MainActivity"
-            android:label="OPCMIA LOCAL 528">
-
-        </activity>
+            android:label="OPCMIA LOCAL 528"></activity>
         <activity
             android:name=".LoginActivity"
             android:label="Seattle Building Trades"
@@ -49,6 +45,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".PostActivity"></activity>
     </application>
 
 </manifest>
